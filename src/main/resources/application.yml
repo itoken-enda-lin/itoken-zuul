@@ -13,3 +13,6 @@ spring:
       name: itoken-zuul
       label: master
       profile: dev
+
+server:
+  port: 8769
